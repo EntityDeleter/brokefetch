@@ -5,6 +5,7 @@
 ![Static Badge](https://img.shields.io/badge/made_with-vscode%2C_nano%2C_Xcode%2C_helix-blue)
 [![AUR package](https://repology.org/badge/version-for-repo/aur/brokefetch.svg)](https://repology.org/project/brokefetch/versions)
 [![AUR package](https://repology.org/badge/version-for-repo/aur/brokefetch-mod.svg)](https://repology.org/project/brokefetch-mod/versions)
+[![CodeFactor](https://www.codefactor.io/repository/github/szerwigi1410/brokefetch/badge)](https://www.codefactor.io/repository/github/szerwigi1410/brokefetch)
 ![Linux](https://img.shields.io/badge/-Linux-grey?logo=linux)
 
 A broken `neofetch` clone for those of us who have no job, no GPU, no money, and no hope.
